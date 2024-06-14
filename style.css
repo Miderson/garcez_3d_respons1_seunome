@@ -1,0 +1,11 @@
+body {background-color: aqua;
+}
+
+@media screen and (min-width: 600px) {
+    body {background-color: coral;}
+}
+    
+
+@media screen and (max-width: 800px) {
+    h1 {font-size: 400%;}
+}
